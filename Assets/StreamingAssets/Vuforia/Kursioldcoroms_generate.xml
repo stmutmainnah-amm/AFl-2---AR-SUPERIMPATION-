@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Kursioldcoroms_generate" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Kursioldcoroms_generates_assembly" assemblyId="11fb5b7377374082bfccd77063a5666b">
+<Part name="Kursioldcoroms_generate" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="Kursioldputar" translation="-0.00576574 -0.00207859 1.13001" rotation="AD: 0.999278 0.0993963 -0.426563 204.094" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="OldFurnituree" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="OldFurniturees_assembly" assemblyId="4ea001b1f1fb4dc1a3ee9e3088383cde">
+<Part name="OldFurnituree" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_KursiKuning" translation="0.000873625 -0.000768125 1.8986" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

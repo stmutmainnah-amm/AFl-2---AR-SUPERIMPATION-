@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generate" targetId="1f0d597f97134fef98365bfec109a7b4" version="14.0" toolVersion="11.4.4" bbox="-0.512447 -0.950804 -0.520178 0.515497 0.947794 0.515246" upVector="0 1 0" previewImage="1f0d597f97134fef98365bfec109a7b4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generates_assembly" assemblyId="bcd599bd310248e2b8b9897d5811e7f5">
+<Part name="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generate" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_KursiTinggi" translation="8.73804e-05 0.000145495 1.93242" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" image="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generate_GuideView_KursiTinggi.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

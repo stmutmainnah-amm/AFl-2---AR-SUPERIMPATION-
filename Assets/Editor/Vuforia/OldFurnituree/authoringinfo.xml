@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="OldFurnituree" targetId="75c4a46944ca44ea8fd3e43ca8ba941b" version="14.0" toolVersion="11.4.4" bbox="-0.552945 -0.951688 -0.63176 0.556535 0.947517 0.629037" upVector="0 1 0" previewImage="75c4a46944ca44ea8fd3e43ca8ba941b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="OldFurniturees_assembly" assemblyId="4ea001b1f1fb4dc1a3ee9e3088383cde">
+<Part name="OldFurnituree" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_KursiKuning" translation="0.000873625 -0.000768125 1.8986" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" image="OldFurnituree_GuideView_KursiKuning.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

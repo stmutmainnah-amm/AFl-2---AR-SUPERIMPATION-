@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.4.4">
+<ModelTarget name="Kursioldarmchair_generate" targetId="73638338114b42298a834bb940411c48" version="14.0" toolVersion="11.4.4" bbox="-0.274243 -0.325688 -0.200526 0.275757 0.324312 0.199474" upVector="0 1 0" previewImage="73638338114b42298a834bb940411c48_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Kursioldarmchair_generates_assembly" assemblyId="d1d8aa8b74854b4084025c0cf56247a1">
+<Part name="Kursioldarmchair_generate" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="Furnitureol_armchair" translation="0.000302523 0.000104398 0.817267" rotation="AD: 0.9993 0.130318 -0.324956 221.461" image="Kursioldarmchair_generate_Furnitureol_armchair.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generate" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generates_assembly" assemblyId="bcd599bd310248e2b8b9897d5811e7f5">
+<Part name="Meshy_AI_Grey_Upholstered_Bar_Stool_20261105_generate" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_KursiTinggi" translation="8.73804e-05 0.000145495 1.93242" rotation="AD: 0.999839 0.0717852 -0.267906 208.955" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
